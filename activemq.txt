@@ -1,0 +1,3 @@
+Actve mq:
+ URl: http://127.0.0.1:8161/
+ broker: tcp://LAPTOP-QBP0IAAQ:61616
